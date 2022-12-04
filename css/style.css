@@ -1,0 +1,138 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Open+Sans:ital,wght@0,300;0,400;0,500;0,600;0,700;1,300;1,400;1,500;1,600&family=Roboto:wght@400;700&display=swap');
+/* Your styles here */
+body{
+    font-family: 'Montserrat', sans-serif;
+font-family: 'Open Sans', sans-serif;
+font-family: 'Roboto', sans-serif;
+}
+/* HEADER */
+header { 
+color: blue;
+    text-align: center;
+
+}
+.sfondo-img {
+ height: 300px;
+ background-image: url(../images/banner.jpg);
+ background-size: cover;
+ background-repeat: no-repeat;
+ padding-top: 20px;
+}
+.bottone-arancione {
+  margin: 0 auto;
+  display: block;
+  background-color:rgba(252,70,36,255);
+  color: white;
+  width: 130px;
+  height: 45px;
+  font-weight: bold;
+  font-size: 20px;
+  border-radius: 4px;
+  border: none;
+}
+.sfondo-img p {
+text-align: center;
+padding: 20px;
+color: grey;
+font-size: 20px;
+}
+.primo {
+    font-size: 42px;
+    color: rgba(43,158,202,255);
+    text-align: center;
+   font-weight: bold;
+}
+.foto{
+    width: 40%;
+    margin: 0 auto;
+    display: block;
+  
+}
+.seconda-parte {  
+    text-align: center;
+    padding-top: 30px;
+
+}
+.titolo-secondaparte,.titolo-secondaparte2,.quarto-titolo,.quinto-titolo,.titolofoto1, .titolofoto2, .titolofoto3 {
+    color: rgba(43,158,202,255);
+    font-size: 25px;
+    padding-top: 15px;
+    text-align: center;
+    font-weight: bold;
+}
+.testo-secondaparte, .testo-terzaparte, .quarto-testo, .quinto-testo, .testofoto1, .testofoto2,.testofoto3 {
+    color: grey;
+    padding: 10px;
+    font-size: 20px;
+    text-align: center;
+
+}
+.garanzie {
+    background-color: rgba(238,34,0,255);
+    color: white;
+    text-align: center;
+    padding: 20px;
+}
+.titolo-garanzie {
+    font-size: 30px;
+    font-weight: 400;
+}
+.damettereincorsivo {
+    padding: 20px;
+    font-style: italic;
+}
+.mario {
+    font-size: 23px;
+    padding: 15px;
+}
+.foto1 {
+    width: 85%;
+    margin: 0 auto;
+    display: block;
+  padding-top: 50px;
+
+}
+.foto2 {
+    width: 85%;
+    margin: 0 auto;
+    display: block;
+    padding-top: 50px;
+
+}
+.foto3 {
+    width: 85%;
+    margin: 0 auto;
+    display: block;
+    padding-top: 50px;
+
+}
+.contenitore1 {
+    width: 100%;
+    background-color: black;
+   padding-top: 20px;
+   padding-bottom: 20px ;
+}
+
+.prima-foto {
+    height: 300px;
+    border-radius: 50%;
+    margin:  0 auto;
+    display: block;
+
+ 
+
+}
+
+/* FOOTER */
+.finale {
+    background-color: rgba(39,158,195,255);
+    text-align: center;
+    color: white;
+    padding: 30px;
+}
+.conta {
+   font-size: 30px;
+   padding: 30px;
+   font-weight: bold;
+    
+}
