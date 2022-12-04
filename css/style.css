@@ -49,7 +49,7 @@ font-size: 20px;
     display: block;
   
 }
-.bordo1 {
+.bordo1, .bordo2, .bordo3 {
     
         border-width: 1px;
         border-style: solid;
@@ -94,6 +94,7 @@ font-size: 20px;
 .damettereincorsivo {
     padding: 20px;
     font-style: italic;
+    line-height: 1.5;
 }
 .mario {
     font-size: 23px;
@@ -107,17 +108,16 @@ font-size: 20px;
 
 }
 .foto2 {
-    width: 85%;
+    width: 100%;
     margin: 0 auto;
     display: block;
-    padding-top: 50px;
+    
 
 }
 .foto3 {
-    width: 85%;
+    width: 100%;
     margin: 0 auto;
     display: block;
-    padding-top: 50px;
 
 }
 .contenitore1 {
@@ -143,6 +143,8 @@ font-size: 20px;
     text-align: center;
     color: white;
     padding: 30px;
+   
+   
 }
 .conta {
    font-size: 30px;
